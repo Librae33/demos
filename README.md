@@ -29,7 +29,7 @@ DOM工具函数
 
 [css3照片墙](http://github-26713243.oschina.io/librae33.github.io/myProject/demo/css3/album/index.html)   
 
-[回到顶部](http://github-26713243.oschina.io/librae33.github.io/myProject/demo/backtoTop/backToTop.html/)
+[回到顶部](http://github-26713243.oschina.io/librae33.github.io/myProject/demo/backtoTop/backtoTop.html/)
 
 [拖拽](http://github-26713243.oschina.io/librae33.github.io/myProject/demo/drag/drag.html) 
 
